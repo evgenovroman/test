@@ -1,5 +1,6 @@
 'use strict';
 
+let woo = 12;
 
 console.log(4/0);
 console.log('string'*9);
